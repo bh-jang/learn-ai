@@ -1,3 +1,5 @@
+# Data를 train / test 로 나누는경우
+
 from sklearn.neighbors import KNeighborsClassifier
 kn = KNeighborsClassifier()
 import numpy as np
